@@ -94,7 +94,7 @@ How to efficiently track yearly goals on a weekly, monthly, and annual basis to 
 </ul>
 <br>
 <br>
-<strong>Motivational Quotes</strong> <img src="img/quote.jpg">
+<strong>Motivational Quote</strong> <img src="img/quote.jpg">
 
 ## Copyright: 
 CC Stinson (@cc)
