@@ -54,10 +54,10 @@ How to efficiently track yearly goals on a weekly, monthly, and annual basis to 
 ## <a name="technologies-used"></a> Technologies used to build app
 
 <ul>
-* [Backend technologies](#Backend)
-[Frontend technologies](#Frontend)
-[New technologies](#New)
-</ul>
+<li>[Backend technologies](#Backend)
+<li>[Frontend technologies](#Frontend)
+<li>[New technologies](#New)
+<ul/>
 	
 ## <a name ="Backend"></a> Backend technologies
 * Node.js (https://nodejs.org/en/)
