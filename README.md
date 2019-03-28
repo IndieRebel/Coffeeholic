@@ -46,7 +46,7 @@ Change, update, or delete goal
  
 <img src="img/climb.jpg">
 
-<p>Motivation</P>
+<p> <strong>Motivation</strong></P>
 
 How to efficiently track yearly goals on a weekly, monthly, and annual basis to increase accomplishments thus improving quality of life.  This was inserted by our team’s cohort year 2019 resolution and displays of Passion  Planners #PASHFAM
 
@@ -76,12 +76,12 @@ How to efficiently track yearly goals on a weekly, monthly, and annual basis to 
 
 ## <a name="New"></a> New technologies
 <ul>
-Materialize (https://materializecss.com/)
+<li>Materialize (https://materializecss.com/)
 </ul>
 
 ## API Reference: 
 <ul>
-Created Goals as a way for users to track
+<li>Created Goals as a way for users to track
 </ul>
 
 ## Future State: 
@@ -92,6 +92,8 @@ Created Goals as a way for users to track
 <li>Weekly Motivational Quotes
 <li>Timers
 </ul>
+<br>
+<br>
 Motivational Quotes <img src="img/quote.jpg">
 
 ## Copyright: 
