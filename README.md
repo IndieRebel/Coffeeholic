@@ -1,86 +1,92 @@
-# Coffeeholic
-This is a space all about the love of coffee and the people who drink it.
+## Table of contents
+  * [Title](#Title)
+  * [About this project](#about-this-project)
+  * [Demo](#demo)
+  * [Key Elements](#key-elements)
+  * [Technologies used to create app](#technologies-used)
+  * [Backend technologies](#Backend)
+  * [Frontend technologies](#Frontend)
 
-## Getting Started
+## <a name="Title"></a> Project XX
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## <a name="about-this-project"></a> About this project
 
-### Prerequisites
+<p> Team Members</p>
+<ul>
+  <li> John Smith (@john) </li>
+  <li>Jane Doe (@jane) </li>
+ <li>CC Stinson (@cc) </li>
+</ul>
 
-What things you need to install the software and how to install them
+<p> Project Name</p>
+(https://www.shutterstock.com/image-photo/beautiful-sunrise-mountains-panorama-landscape-natural-791907214?src=D4k24HUD7asFh-0GQ62_Gg-1-36)
 
-```
-Give examples
-```
+### Project Description:
+FYL is an interactive tool that allows the user to enhance their quality of life by actively tracking their annual goals. The application will utilize an API titled ‘Goals’ to incentivize user participation to input what they feel they can accomplish. The user signs in and next enters their goals.  The tool will timestamp the goals and track it for the user in the database.  The user can delete the goal or change the goals if needed. This is a simple full stack development tool that is easy to use for an active user to track their progress throughout the week, month, and year. 
 
-### Installing
+## <a name="Demo"></a> Demo
 
-A step by step series of examples that tell you how to get a development env running
+[Insert Youtube Video]
 
-Say what the step will be
+## <a name=“key-elements”></a> Key Elements and Features
 
-```
-Give the example
-```
+Visual
 
-And repeat
+Make High Level Goals
 
-```
-until finished
-```
+Priority Setting
 
-End with an example of getting some data out of the system or using it for a little demo
+Make Specific Plans with timescales
 
-## Running the tests
+Motivation 
 
-Explain how to run the automated tests for this system
+Tracking
 
-### Break down into end to end tests
+Change, update, or delete goal
+ 
+<img src="img/climb.jpg">
 
-Explain what these tests test and why
+<p>Motivation</P>
 
-```
-Give an example
-```
+How to efficiently track yearly goals on a weekly, monthly, and annual basis to increase accomplishments thus improving quality of life.  This was inserted by our team’s cohort year 2019 resolution and displays of Passion  Planners #PASHFAM
 
-### And coding style tests
+ 
+## <a name="technologies-used"></a> Technologies used to build app
 
-Explain what these tests test and why
+<ul>
+* [Backend technologies](#Backend)
+[Frontend technologies](#Frontend)
+[New technologies](#New)
+<ul/>
+	
+## <a name ="Backend"></a> Backend technologies
+* Node.js (https://nodejs.org/en/)
+Express (https://expressjs.com/)
+MySQL (https://www.mysql.com/)
 
-```
-Give an example
-```
 
-## Deployment
+## <a name="Frontend"></a> Frontend technologies
+* HTML
+* CSS
+Javascript
+Handlebars (https://handlebarsjs.com/)
 
-Add additional notes about how to deploy this on a live system
+## <a name="New"></a> New technologies
+*Materialize (https://materializecss.com/)
 
-## Built With
+## API Reference: 
+*Created Goals as a way for users to track
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Future State: 
+*Authentication 
+*Reminder Prompts 
+*Journal Entry
+*Weekly Motivational Quotes
+*Timers
 
-## Contributing
+Motivational Quotes (https://motivationping.com/wp-content/uploads/2017/10/inspirational-motivational-quotes-26.jpg)
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+## Copyright: 
+CC Stinson (@cc)
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+© 2019 All Rights Reserved
