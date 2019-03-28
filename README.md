@@ -67,24 +67,31 @@ How to efficiently track yearly goals on a weekly, monthly, and annual basis to 
 </ul>
 
 ## <a name="Frontend"></a> Frontend technologies
-HTML
-CSS
-Javascript
-Handlebars (https://handlebarsjs.com/)
+<ul>
+<li>HTML
+<li>CSS
+<li>Javascript
+<li>Handlebars (https://handlebarsjs.com/)
+</ul>
 
 ## <a name="New"></a> New technologies
-*Materialize (https://materializecss.com/)
+<ul>
+Materialize (https://materializecss.com/)
+</ul>
 
 ## API Reference: 
-*Created Goals as a way for users to track
+<ul>
+Created Goals as a way for users to track
+</ul>
 
 ## Future State: 
-Authentication 
-Reminder Prompts 
-Journal Entry
-Weekly Motivational Quotes
-Timers
-
+<ul>
+<li>Authentication 
+<li>Reminder Prompts 
+<li>Journal Entry
+<li>Weekly Motivational Quotes
+<li>Timers
+</ul>
 Motivational Quotes <img src="img/quote.jpg">
 
 ## Copyright: 
