@@ -19,7 +19,7 @@
 </ul>
 
 <p> Project Name</p>
-(https://www.shutterstock.com/image-photo/beautiful-sunrise-mountains-panorama-landscape-natural-791907214?src=D4k24HUD7asFh-0GQ62_Gg-1-36)
+<img src="img/fylbg.jpg">
 
 ### Project Description:
 FYL is an interactive tool that allows the user to enhance their quality of life by actively tracking their annual goals. The application will utilize an API titled ‘Goals’ to incentivize user participation to input what they feel they can accomplish. The user signs in and next enters their goals.  The tool will timestamp the goals and track it for the user in the database.  The user can delete the goal or change the goals if needed. This is a simple full stack development tool that is easy to use for an active user to track their progress throughout the week, month, and year. 
@@ -57,7 +57,7 @@ How to efficiently track yearly goals on a weekly, monthly, and annual basis to 
 * [Backend technologies](#Backend)
 [Frontend technologies](#Frontend)
 [New technologies](#New)
-<ul/>
+</ul>
 	
 ## <a name ="Backend"></a> Backend technologies
 * Node.js (https://nodejs.org/en/)
@@ -84,7 +84,7 @@ Handlebars (https://handlebarsjs.com/)
 *Weekly Motivational Quotes
 *Timers
 
-Motivational Quotes (https://motivationping.com/wp-content/uploads/2017/10/inspirational-motivational-quotes-26.jpg)
+Motivational Quotes <img src="img/quote.jpg">
 
 ## Copyright: 
 CC Stinson (@cc)
