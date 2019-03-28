@@ -60,14 +60,15 @@ How to efficiently track yearly goals on a weekly, monthly, and annual basis to 
 <ul/>
 	
 ## <a name ="Backend"></a> Backend technologies
-* Node.js (https://nodejs.org/en/)
-Express (https://expressjs.com/)
-MySQL (https://www.mysql.com/)
-
+<ul>
+<li>Node.js (https://nodejs.org/en/)
+<li>Express (https://expressjs.com/)
+<li>MySQL (https://www.mysql.com/)
+</ul>
 
 ## <a name="Frontend"></a> Frontend technologies
-* HTML
-* CSS
+HTML
+CSS
 Javascript
 Handlebars (https://handlebarsjs.com/)
 
@@ -78,11 +79,11 @@ Handlebars (https://handlebarsjs.com/)
 *Created Goals as a way for users to track
 
 ## Future State: 
-*Authentication 
-*Reminder Prompts 
-*Journal Entry
-*Weekly Motivational Quotes
-*Timers
+Authentication 
+Reminder Prompts 
+Journal Entry
+Weekly Motivational Quotes
+Timers
 
 Motivational Quotes <img src="img/quote.jpg">
 
